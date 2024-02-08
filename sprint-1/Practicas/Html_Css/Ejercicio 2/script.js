@@ -1,0 +1,1 @@
+alert('El archivo de js esta bien enlazado');

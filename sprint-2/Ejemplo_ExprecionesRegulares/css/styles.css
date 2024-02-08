@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+
+.main{
+    
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:darkseagreen;
+    padding: 50px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}

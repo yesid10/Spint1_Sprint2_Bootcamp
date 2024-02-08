@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header__navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 70px;
+}
+
+.header__navbar{
+    padding: 50px;
+    position: fixed;
+    background-color: bisque;
+    width: 100%;
+    opacity: 0.5;
+}
+
+.header__navbar a{
+    text-decoration: none;
+    font-family: 'Labrada', serif;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+
+
+.header__figure img{
+    width: 100%;
+}
+
+
